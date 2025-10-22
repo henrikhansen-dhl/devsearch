@@ -1,0 +1,40 @@
+h1 {
+  color: rgb(82, 33, 160);
+  text-align: center;
+}
+
+p {
+  color: darkblue;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+a {
+  color: darkred;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+button {
+  background-color: darkred;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: red;
+}
+input[type="submit"] {
+  background-color: darkred;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+}

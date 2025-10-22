@@ -1,0 +1,13 @@
+# Ignore Django template files
+*.html
+templates/**/*.html
+**/templates/**/*.html
+
+# Also ignore static files that shouldn't be formatted
+staticfiles/
+static/
+
+# Common files to ignore
+node_modules/
+*.min.js
+*.min.css
